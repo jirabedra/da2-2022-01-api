@@ -1,0 +1,12 @@
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\bin\Debug\netcoreapp3.1\CarRentalLogic.deps.json
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\bin\Debug\netcoreapp3.1\CarRentalLogic.dll
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\bin\Debug\netcoreapp3.1\CarRentalLogic.pdb
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\obj\Debug\netcoreapp3.1\CarRentalLogic.csproj.AssemblyReference.cache
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\obj\Debug\netcoreapp3.1\CarRentalLogic.AssemblyInfoInputs.cache
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\obj\Debug\netcoreapp3.1\CarRentalLogic.AssemblyInfo.cs
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\obj\Debug\netcoreapp3.1\CarRentalLogic.csproj.CoreCompileInputs.cache
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\obj\Debug\netcoreapp3.1\CarRentalLogic.csproj.CopyComplete
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\obj\Debug\netcoreapp3.1\CarRentalLogic.dll
+D:\Documentos\ORT\DA2\Mis guias DA2\REST API IMPL\CarRentalLogic\obj\Debug\netcoreapp3.1\CarRentalLogic.pdb
