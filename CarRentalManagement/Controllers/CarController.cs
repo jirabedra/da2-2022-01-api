@@ -14,7 +14,7 @@ namespace CarRentalManagement.Controllers
     public class CarController : ControllerBase
     {
 
-        public CarLogic carLogic { get; set; } = new CarLogic();
+        private CarLogic carLogic = new CarLogic();
 
         [HttpGet]
         public IActionResult GetAllCars()

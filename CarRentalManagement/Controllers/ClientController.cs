@@ -13,7 +13,7 @@ namespace CarRentalManagementApi.Controllers
     public class ClientController : ControllerBase
     {
 
-        public ClientLogic clientLogic { get; set; } = new ClientLogic();
+        private ClientLogic clientLogic = new ClientLogic();
 
         [HttpGet]
         public IActionResult GetClients([FromQuery] string name, [FromQuery] string country)
